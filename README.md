@@ -1,4 +1,4 @@
-# 📊 Análise Econômica da Cesta Básica (Almoço) — Campinas
+# 📊 Análise Econômica da Cesta Básica (Almoço) - Campinas
 
 Este projeto foi desenvolvido como **Projeto Integrador e Extensionista** das disciplinas **Projetos Computacionais** e **Mineração e Visualização de Dados** do curso de **Ciência de Dados e Inteligência Artificial da PUC-Campinas**.
 
